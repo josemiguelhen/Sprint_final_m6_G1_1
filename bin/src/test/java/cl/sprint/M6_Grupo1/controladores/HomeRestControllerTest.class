@@ -1,0 +1,79 @@
+Êþº¾   = .  Fsrc/test/java/cl/sprint/M6_Grupo1/controladores/HomeRestControllerTest  java/lang/Object mvc 	LMockMvc; <init> ()V Code  java/lang/Error Unresolved compilation problems: 
+	The declared package "cl.sprint.M6_Grupo1.controladores" does not match the expected package "src.test.java.cl.sprint.M6_Grupo1.controladores"
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	SpringJUnitWebConfig cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	MockMvc cannot be resolved to a type
+	BeforeEach cannot be resolved to a type
+	WebApplicationContext cannot be resolved to a type
+	Exception cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	MockMvcBuilders cannot be resolved
+	Test cannot be resolved to a type
+	Exception cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	The method get(String) is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method status() is undefined for the type HomeRestControllerTest
+	The method content() is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method jsonPath(String) is undefined for the type HomeRestControllerTest
+	Test cannot be resolved to a type
+	Exception cannot be resolved to a type
+	String cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	The method status() is undefined for the type HomeRestControllerTest
+	The method content() is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method jsonPath(String) is undefined for the type HomeRestControllerTest
+
+ 
+    (Ljava/lang/String;)V LineNumberTable LocalVariableTable this HLsrc/test/java/cl/sprint/M6_Grupo1/controladores/HomeRestControllerTest; setUp (LWebApplicationContext;)V 
+Exceptions  	Exception RuntimeInvisibleAnnotations LBeforeEach;  ñUnresolved compilation problems: 
+	BeforeEach cannot be resolved to a type
+	WebApplicationContext cannot be resolved to a type
+	Exception cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	MockMvcBuilders cannot be resolved
+ 
+verMensaje LTest; !Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Exception cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	The method get(String) is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method status() is undefined for the type HomeRestControllerTest
+	The method content() is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method jsonPath(String) is undefined for the type HomeRestControllerTest
+ verMensajePersonalizado $¿Unresolved compilation problems: 
+	Test cannot be resolved to a type
+	Exception cannot be resolved to a type
+	String cannot be resolved to a type
+	MockMvc cannot be resolved to a type
+	The method status() is undefined for the type HomeRestControllerTest
+	The method content() is undefined for the type HomeRestControllerTest
+	MediaType cannot be resolved to a variable
+	The method jsonPath(String) is undefined for the type HomeRestControllerTest
+ 
+SourceFile HomeRestControllerTest.java LSpringJUnitWebConfig; 	locations * MockMvc , WebApplicationContext MissingTypes                   	   4     
+» 
+Y· ¿                   
+                        	   4     
+» 
+Y· ¿                   
+                        	   4     
+» 
+Y · ¿                   
+       "                 	   4     
+» 
+Y#· ¿           &        
+      %    &      '   -      ) +

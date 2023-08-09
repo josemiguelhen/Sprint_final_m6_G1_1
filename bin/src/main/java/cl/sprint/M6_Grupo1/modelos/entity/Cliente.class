@@ -1,0 +1,119 @@
+Êþº¾   = C  8src/main/java/cl/sprint/M6_Grupo1/modelos/entity/Cliente  8src/main/java/cl/sprint/M6_Grupo1/modelos/entity/Usuario nombres Ljava/lang/String; 	apellidos telefono I 	direccion comuna edad rut <init> ()V Code  java/lang/Error 	.Unresolved compilation problems: 
+	The declared package "cl.sprint.M6_Grupo1.modelos.entity" does not match the expected package "src.main.java.cl.sprint.M6_Grupo1.modelos.entity"
+	The import java.time cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Entity cannot be resolved to a type
+	Table cannot be resolved to a type
+	PrimaryKeyJoinColumn cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	The method toString() from the type Usuario refers to the missing type String
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this :Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/Cliente; (I)V e(ILjava/lang/String;Ljava/lang/String;Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V a(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;II)V s(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;II)V 
+getNombres ()Ljava/lang/String; # lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ 
+setNombres getApellidos setApellidos getTelefono ()I * !Unresolved compilation problem: 
+ setTelefono getDireccion setDireccion 	getComuna 	setComuna getEdad setEdad getRut setRut toString RuntimeInvisibleAnnotations 
+LOverride; 8QUnresolved compilation problems: 
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	The method toString() from the type Usuario refers to the missing type String
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ RuntimeInvisibleTypeAnnotations 
+SourceFile Cliente.java LEntity; LTable; name LPrimaryKeyJoinColumn; A java/lang/String MissingTypes !                  	    
+           	     	           4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4  
+   
+» Y· ¿                   
+            4     
+» Y· ¿                   
+        !     4     
+» Y"· ¿           >        
+      $      4     
+» Y"· ¿           B        
+      % !     4     
+» Y"· ¿           F        
+      &      4     
+» Y"· ¿           J        
+      ' (     4     
+» Y)· ¿           N        
+      +      4     
+» Y)· ¿           R        
+      , !     4     
+» Y"· ¿           V        
+      -      4     
+» Y"· ¿           Z        
+      . !     4     
+» Y"· ¿           ^        
+      /      4     
+» Y"· ¿           b        
+      0 (     4     
+» Y)· ¿           f        
+      1      4     
+» Y)· ¿           j        
+      2 (     4     
+» Y)· ¿           n        
+      3      4     
+» Y)· ¿           r        
+      4 !  5     6      4     
+» Y7· ¿           v        
+     9      6    :    ; 5     <   =   ?   B     @

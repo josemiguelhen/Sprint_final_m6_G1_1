@@ -1,0 +1,96 @@
+ ˛∫æ   = C  8src/main/java/cl/sprint/M6_Grupo1/modelos/entity/Usuario  java/lang/Object id I RuntimeInvisibleAnnotations LId; LColumn; name nombreUsuario Ljava/lang/String; contrase√±a rol =Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario; LEnumerated; value <init> ()V Code  java/lang/Error JUnresolved compilation problems: 
+	The declared package "cl.sprint.M6_Grupo1.modelos.entity" does not match the expected package "src.main.java.cl.sprint.M6_Grupo1.modelos.entity"
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Entity cannot be resolved to a type
+	Table cannot be resolved to a type
+	Inheritance cannot be resolved to a type
+	InheritanceType cannot be resolved to a variable
+	Id cannot be resolved to a type
+	Column cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Enumerated cannot be resolved to a type
+	EnumType cannot be resolved to a variable
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	The constructor Object() is undefined
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this :Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/Usuario; (I)V (ILjava/lang/String;)V S(ILjava/lang/String;Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V d(Ljava/lang/String;Ljava/lang/String;Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V e(ILjava/lang/String;Ljava/lang/String;Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V getId ()I ( !Unresolved compilation problem: 
+ setId 	getNombre ()Ljava/lang/String; - lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ 	setNombre getContrase√±a setContrase√±a getRol ?()Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario; setRol @(Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V toString 
+LOverride; 8 ∏Unresolved compilation problems: 
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ RuntimeInvisibleTypeAnnotations 
+SourceFile Usuario.java LEntity; LTable; LInheritance; strategy A java/lang/String MissingTypes !             
+     	            	            	                4     
+ª Y∑ ø                   
+             4     
+ª Y∑ ø                   
+       !     4     
+ª Y∑ ø                   
+       "     4     
+ª Y∑ ø                   
+       #     4     
+ª Y∑ ø                   
+       $     4     
+ª Y∑ ø                   
+      % &     4     
+ª Y'∑ ø           @        
+      )       4     
+ª Y'∑ ø           C        
+      * +     4     
+ª Y,∑ ø           F        
+      .      4     
+ª Y,∑ ø           I        
+      / +     4     
+ª Y,∑ ø           M        
+      0      4     
+ª Y,∑ ø           Q        
+      1 2     4     
+ª Y'∑ ø           U        
+      3 4     4     
+ª Y'∑ ø           X        
+      5 +       6      4     
+ª Y7∑ ø           \        
+     9      6    :    ;      <   =   >   B     @

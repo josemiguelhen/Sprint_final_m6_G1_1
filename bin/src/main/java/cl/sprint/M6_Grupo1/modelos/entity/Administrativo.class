@@ -1,0 +1,88 @@
+Êþº¾   = 3  ?src/main/java/cl/sprint/M6_Grupo1/modelos/entity/Administrativo  8src/main/java/cl/sprint/M6_Grupo1/modelos/entity/Usuario nombreAdmin Ljava/lang/String; RuntimeInvisibleAnnotations LColumn; name area experienciaPrevia <init> ()V Code  java/lang/Error Unresolved compilation problems: 
+	The declared package "cl.sprint.M6_Grupo1.modelos.entity" does not match the expected package "src.main.java.cl.sprint.M6_Grupo1.modelos.entity"
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Entity cannot be resolved to a type
+	Table cannot be resolved to a type
+	PrimaryKeyJoinColumn cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	The method toString() from the type Usuario refers to the missing type String
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this ALsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/Administrativo; e(ILjava/lang/String;Ljava/lang/String;Lsrc/main/java/cl/sprint/M6_Grupo1/modelos/entity/RolUsuario;)V L(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V ^(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V getNombreAdmin ()Ljava/lang/String;   lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setNombreAdmin getArea setArea getExperienciaPrevia setExperienciaPrevia toString 
+LOverride; ),Unresolved compilation problems: 
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	The method toString() from the type Usuario refers to the missing type String
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ RuntimeInvisibleTypeAnnotations 
+SourceFile Administrativo.java LEntity; LTable; LPrimaryKeyJoinColumn; 1 java/lang/String MissingTypes !                   
+                        4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿           0        
+      !      4     
+» Y· ¿           4        
+      "      4     
+» Y· ¿           8        
+      #      4     
+» Y· ¿           <        
+      $      4     
+» Y· ¿           @        
+      %      4     
+» Y· ¿           D        
+      &        '      4     
+» Y(· ¿           H        
+     *      '    +    ,      -   .   /   2     0
